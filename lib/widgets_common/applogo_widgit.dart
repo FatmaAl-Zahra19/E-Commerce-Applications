@@ -1,0 +1,8 @@
+// ignore_for_file: prefer_const_constructors
+
+import 'package:e_commerce_app/consts/consts.dart';
+
+Widget applogoWidget(){
+  //using velocity X here
+  return Image.asset(icAppLogo).box.white.size(77, 77).padding(EdgeInsets.all(8)).rounded.make();
+}

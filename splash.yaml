@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/WhatsApp Image 2022-11-22 at 9.58.37 PM.jpeg
+  image_dark: assets/logos/st.jpeg
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/WhatsApp Image 2022-11-22 at 9.58.37 PM.jpeg
+    image_dark: assets/logos/st.jpeg
+
+  web: false
